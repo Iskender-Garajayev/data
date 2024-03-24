@@ -315,6 +315,7 @@ const Data = [
   {
     _id: '21',
     image: 'https://raw.githubusercontent.com/Iskender-Garajayev/data/main/img/iphone-compare-iphone-15-pro-202309.jpg',
+    image: 'https://raw.githubusercontent.com/Iskender-Garajayev/data/main/img/iphone-15-pro-model-unselect-gallery-2-202309_GEO_US.jpg',
     name: 'iPhone 15 Pro',
     price: '$549',
     description:'iPhone 15 Pro is the first iPhone to feature an aerospace‑grade titanium design, using the same alloy that spacecraft use for missions to Mars.',
@@ -326,6 +327,21 @@ const Data = [
     numReviews: 9,
     stock: 200,
   },
+  {
+    _id: '22',
+    image: 'https://raw.githubusercontent.com/Iskender-Garajayev/data/main/img/iphone-compare-iphone-15-pro-202309.jpg',
+    name: 'Macbook Pro',
+    price: '$549',
+    description:'iPhone 15 Pro is the first iPhone to feature an aerospace‑grade titanium design, using the same alloy that spacecraft use for missions to Mars.',
+    rating: 5 ,
+    section: 'Explore',
+    category: 'Electronics',
+    color: ['red', 'white'],
+    countInStock: 8,
+    numReviews: 9,
+    stock: 200,
+  },
+
   // {
   //   _id: '19',
   //   image: 'https://www.apple.com/v/iphone-14/h/images/key-features/features/size/size_yellow__dnv9794q7loy_large.jpg',
